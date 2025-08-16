@@ -1,7 +1,9 @@
 # Repositório de Logos da PUCPR
 
 ## Descrição
-Este repositório contém versões não oficiais de logotipos inspirados na Pontifícia Universidade Católica do Paraná (PUCPR). **Estes logotipos foram criados exclusivamente para uso acadêmico e não devem ser utilizados para qualquer outro propósito fora do contexto educacional.**
+Este repositório contém versões não oficiais de logotipos inspirados na Pontifícia Universidade Católica do Paraná (PUCPR).
+
+**Estes logotipos foram criados exclusivamente para uso acadêmico e não devem ser utilizados para qualquer outro propósito fora do contexto educacional.**
 
 ## Objetivo
 Os logotipos aqui disponíveis são destinados a estudantes, professores e pesquisadores da PUCPR para uso em projetos acadêmicos, como apresentações, trabalhos de conclusão de curso, eventos internos ou materiais educacionais. Eles não substituem os logotipos oficiais da instituição e devem ser usados com responsabilidade e respeito às diretrizes da PUCPR.
