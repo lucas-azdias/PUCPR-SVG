@@ -1,4 +1,4 @@
-# Repositório de Logos da PUCPR
+# Repositório Não Oficial de Logos da PUCPR
 
 ## Descrição
 Este repositório contém versões não oficiais de logotipos inspirados na Pontifícia Universidade Católica do Paraná (PUCPR).
