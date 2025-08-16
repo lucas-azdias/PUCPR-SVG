@@ -10,4 +10,5 @@ Os logotipos aqui disponíveis são destinados a estudantes, professores e pesqu
 O repositório disponibiliza os logotipos da PUCPR em duas variações principais:
 - Versão com cor primária: ideal para materiais com fundo claro;
 - Versão branca: apropriado para aplicação sobre fundos escuros ou imagens.
+
 Cada versão está disponível tanto em formato completo (com texto e símbolo) quanto isolado (apenas o símbolo).
